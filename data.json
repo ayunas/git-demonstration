@@ -1,6 +1,6 @@
 [
     {
-      "name": "Meowsy",
+      "name": "Sylvester",
       "species" : "cat",
       "foods": {
         "likes": ["tuna"],
@@ -16,11 +16,19 @@
       }
     },
     {
-      "name": "Purrpaws",
+      "name": "Feline",
       "species" : "cat",
       "foods": {
-        "likes": ["mice"],
+        "likes": ["rats","milk"],
         "dislikes": ["cookies"]
+      }
+    },
+    {
+      "name": "Slippy",
+      "species" : "snake",
+      "foods": {
+        "likes": ["rats","eggs"],
+        "dislikes": ["apples","people"]
       }
     }
   ]
