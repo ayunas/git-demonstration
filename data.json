@@ -1,7 +1,7 @@
 [
     {
-      "name": "Sylvester",
-      "species" : "cat",
+      "name": "Barky",
+      "species" : "dog",
       "foods": {
         "likes": ["tuna"],
         "dislikes": ["ham", "zucchini"]
