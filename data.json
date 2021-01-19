@@ -3,7 +3,7 @@
       "name": "Meowsy",
       "species" : "cat",
       "foods": {
-        "likes": ["tuna", "catnip"],
+        "likes": ["tuna"],
         "dislikes": ["ham", "zucchini"]
       }
     },
